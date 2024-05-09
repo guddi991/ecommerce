@@ -1,0 +1,4 @@
+1. add express for server - DONE
+2. sequiezer for DB connection
+3. JWT
+4.  
