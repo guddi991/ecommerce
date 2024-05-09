@@ -1,4 +1,11 @@
-1. add express for server - DONE
-2. sequiezer for DB connection
-3. JWT
-4.  
+1. add express for server - DONE 
+2. sequiezer for DB connection - DONE
+3. post and get http method - DONE
+4. insert post data into DB
+5. new product api
+6. all products api
+7. delete product api
+8. get all users
+9. login 
+10. signup
+11. JWT
